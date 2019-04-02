@@ -1,0 +1,28 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-color: #f8f9fa;
+}
+
+a {
+  color: #00B7FF;
+}
+.btn-link {
+  color: white;
+}
+.btn-link:hover {
+  color: white;
+}
+.credit {
+  background-color: #FF4500;
+  border-color: #FF4500;
+}
+
+.debit {
+  background-color: #00B060;
+  border-color: #00B060;
+}
+
+.detail {
+  /* background-color: #00A287; */
+}
